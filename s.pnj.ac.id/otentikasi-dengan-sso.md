@@ -19,7 +19,7 @@ Berikut merupakan langkah-langkah untuk login ke s.pnj.ac.id menggunakan SSO - P
 
 * Pada halaman utama [s.pnj.ac.id](https://s.pnj.ac.id), klik login
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (19) (1).png>)
 
 * Pada halaman login, klik Login dengan SSO PNJ
 

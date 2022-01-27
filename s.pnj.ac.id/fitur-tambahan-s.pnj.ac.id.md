@@ -23,7 +23,7 @@ Anda dapat mengkombinasikan fitur-fitur tambahan ini sesuai keinginan Anda (e.g 
 
 Anda dapat mengubah 6 karakter random dibelakang URL yang dibuat oleh s.pnj.ac.id dengan karakter atau kata yang Anda inginkan. Pada saat membuat tautan pendek, tuliskan karakter atau kata yang Anda inginkan pada boks teks `Custom URL..`
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (18) (1).png>)
 
 {% hint style="danger" %}
 Custom URL maupun URL random yang dibuat oleh s.pnj.ac.id peka terhadap huruf besar/kecil. Jika Anda membagikan tautan ke orang lain, pastikan besar/kecil huruf pada tautan sama dengan yang Anda buat atau dapatkan dari s.pnj.ac.id
@@ -39,7 +39,7 @@ Anda dapat memproteksi tautan Anda dengan password. Isi teks boks password untuk
 
 Setelah Anda memberikan proteksi password pada tautan yang Anda buat, seluruh pengguna yang akan mengakses tautan Anda akan dimintai password sebelum s.pnj.ac.id mengalihkan pengguna ke URL panjang Anda.
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 ### Masa Aktif / Kedaluwarsa
 
@@ -49,5 +49,5 @@ Anda dapat membuat tautan Anda kedaluwarsa pada waktu yang Anda tentukan. Untuk 
 * `h` - Untuk **Jam **_**(hours)**_ (Contoh: `2h` untuk membuat tautan Anda kedaluwarsa 2 jam setelah Anda membuat tautan tersebut).
 * `d` - Untuk **Hari **_**(days)**_ (Contoh: `20d` unyuk membuat tautan Anda kedaluwarsa 20 hari setelah Anda membuat tautan tersebut).
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
